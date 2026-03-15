@@ -71,7 +71,7 @@ Related Paper:
 
 **FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI**
 
-https://arxiv.org/abs/2503.12180
+https://arxiv.org/abs/2511.13524
 
 ---
 
